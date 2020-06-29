@@ -1,0 +1,29 @@
+{
+  "name": "react-native-kj-calendar",
+  "version": "1.0.0",
+  "description": "日历组件",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.41",
+    "@types/react-native": "^0.62.14"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "calendar"
+  ],
+  "author": "kanka_liu",
+  "license": "MIT"
+}
