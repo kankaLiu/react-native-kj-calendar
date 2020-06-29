@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/kankaLiu/react-native-kj-calendar"
   },
   "devDependencies": {
     "@types/react": "^16.9.41",

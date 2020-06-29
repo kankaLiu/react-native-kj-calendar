@@ -36,9 +36,7 @@ export const styles = StyleSheet.create({
     dayView: {
         flexDirection: 'row',
         flexWrap: 'wrap',
-        paddingBottom: 15,
-        borderBottomColor: '#DFE3E6',
-        borderBottomWidth: 0.5
+        paddingBottom: 15
     },
     toolBar: {
         flexDirection: 'row',
